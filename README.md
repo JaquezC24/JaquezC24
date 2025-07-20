@@ -10,7 +10,7 @@
 - 🎓 I'm a cybersecurity student working toward a degree in Cybersecurity.
 - 💻 Currently building skills in ethical hacking, system hardening, and network defense.
 - 🛠️ Hands-on experience with Kali Linux, Wireshark, pfSense, Docker labs, and Windows Server.
-- 📚 Certifications: CompTIA A+, Network+, Security+ (in progress)
+- 📚 Certifications: CompTIA A+, Network+, Security+.
 - 🔍 Interests: Threat hunting, SOC tools, vulnerability assessments, and secure network design.
 - 🌱 Always looking to improve my skill sets.
 
@@ -25,14 +25,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybersect&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersect&theme=radical" width="45%"/>
-</p>
 ---
 
 ### 📫 Let's Connect
