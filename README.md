@@ -16,15 +16,6 @@
 
 ---
 
-### 💡 Projects I'm Working On
-
-- 🧪 **Home Cyber Lab** — Using Docker and virtual machines to simulate attacks and practice detection.
-- 🔍 **VulnHub Walkthroughs** — Solving CTFs and documenting the process.
-- 🛡️ **Firewall Ruleset Templates** — Building and testing common rule configs for home & business use.
-- 📊 **SIEM Practice** — Experimenting with open-source SIEM tools like Wazuh and Security Onion.
-
----
-
 ### 🚀 Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
