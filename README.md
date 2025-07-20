@@ -33,12 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cybersect&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersect&theme=radical" width="45%"/>
 </p>
-
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaquezclark/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ja-quez-clark-1041042aa/)
 ---
 
 _Thanks for visiting! Stay secure out there. 🔒_
