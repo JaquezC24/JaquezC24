@@ -12,7 +12,7 @@
 - 🛠️ Hands-on experience with Kali Linux, Wireshark, pfSense, Docker labs, and Windows Server.
 - 📚 Certifications: CompTIA A+, Network+, Security+ (in progress)
 - 🔍 Interests: Threat hunting, SOC tools, vulnerability assessments, and secure network design.
-- 🌱 Always looking to improve my scripting skills in Python and Bash.
+- 🌱 Always looking to improve my skill sets.
 
 ---
 
