@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Cybersect's GitHub</h1>
+
 <p align="center">
   <strong>Cybersecurity Student | Aspiring Blue Teamer | Always Learning</strong>
 </p>
@@ -47,10 +47,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaquezclark/) *(add your link)*
-- 🌐 Personal Blog or Portfolio *(optional)*
-- 📨 Reach out for collaboration or mentorship!
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaquezclark/)
 ---
 
 _Thanks for visiting! Stay secure out there. 🔒_
